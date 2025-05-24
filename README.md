@@ -1,3 +1,6 @@
+![IMAGE](https://raw.githubusercontent.com/pianstore/pianstore/refs/heads/main/9cde7ad0284211f0b243d60b04329523_1.jpeg)
+
+
 - 👋 Hi, I’m @pianstore
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
