@@ -6,6 +6,27 @@
   <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
   
 ![IMAGE](https://raw.githubusercontent.com/pianstore/pianstore/refs/heads/main/9cde7ad0284211f0b243d60b04329523_1.jpeg)
+<p align="center">
+
+<a href="https://github.com/pianstore">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pianstore&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pianstore&layout=compact&langs_count=8&theme=algolia"/>
+
+</a>
+</p>
+
+
+
+
+
+```
+🟥 YouTube: Arh-Project 
+🟦 Grup Telegram: https://t.me/R1f4n_1122
+```
+
+[![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp)](https://skillicons.dev)
 
 
 - 👋 Hi, I’m @pianstore
