@@ -19,13 +19,6 @@
 
 
 
-
-
-```
-🟥 YouTube: Arh-Project 
-🟦 Grup Telegram: https://t.me/R1f4n_1122
-```
-
 [![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp)](https://skillicons.dev)
 
 
