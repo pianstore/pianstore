@@ -17,6 +17,8 @@
 ![IMAGE](https://raw.githubusercontent.com/pianstore/pianstore/refs/heads/main/9cde7ad0284211f0b243d60b04329523_1.jpeg)
 <p align="center">
 
+![3D Profile](thema/profile-night-rainbow.svg)
+
 <a href="https://github.com/pianstore">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pianstore&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
